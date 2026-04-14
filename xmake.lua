@@ -13,7 +13,7 @@ add_requires("legacyremotecall")
 add_requires("levibuildscript 0.6.0")
 add_requires("ilistenattentively 0.12.0")
 add_requires("gmlib 26.10.0")
-add_requires("modapi 26.10.0)
+add_requires("modapi 26.10.0")
 
 target("GMLIB-LegacyRemoteCallApi")
     add_cxflags(
